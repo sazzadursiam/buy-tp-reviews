@@ -246,7 +246,7 @@ h6 {
     align-items: center;
     justify-content: space-between;
     font-size: 14px;
-    color: #2c4964;
+    color: #fff;
     white-space: nowrap;
     transition: 0.3s;
     border-bottom: 2px solid #fff;
@@ -339,7 +339,7 @@ h6 {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-    color: #2c4964;
+    color: #fff;
     font-size: 28px;
     cursor: pointer;
     display: none;
@@ -1288,7 +1288,7 @@ section {
     position: absolute;
     right: 0;
     left: 20px;
-    color: #76b5ee;
+    color: #213233;
 }
 
 .faq .faq-list .icon-show,
@@ -1593,9 +1593,9 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-    color: #444444;
+    color: #fff;
     font-size: 14px;
-    background: #f1f7fd;
+    background: #213233;
 }
 
 #footer .footer-top {
