@@ -105,7 +105,7 @@
         }
 
         .pricing .btn-buy:hover {
-            background: #0399c9;
+            background: #188a91;
         }
 
         .pricing .featured {
@@ -117,7 +117,7 @@
             z-index: 1;
             font-size: 14px;
             padding: 1px 0 3px 0;
-            background: #4154f1;
+            background: #00455b;
             color: #fff;
         }
     </style>
@@ -152,13 +152,13 @@
                                     <div class="box">
 
                                         <div class="box_top">
+                                            <p class="">1 TrustPilot Review</p>
                                             <div class="price"><sup>$</sup>4.5</div>
-                                            <p class="mb-0">1/ Reviews </p>
                                         </div>
                                         <div class="inner">
                                             <ul>
 
-                                                <li style="color: #ff901c;font-weight:700;">
+                                                <li style="color: #188a91;font-weight:700;">
                                                     Custom Content
                                                 </li>
                                                 <li>
@@ -187,13 +187,14 @@
                                 <div class="col-xl-4 d-flex align-items-stretch mb-3">
                                     <div class="box">
                                         <div class="box_top">
-                                            <div class="price"><sup>$</sup>6</div>
-                                            <p class="mb-0">1/Verified Reviews</p>
+                                            <p class="">5 TrustPilot Review</p>
+                                            <div class="price"><sup>$</sup>50</div>
+
                                         </div>
                                         <div class="inner">
                                             <span class="featured">Featured</span>
                                             <ul>
-                                                <li style="color: #ff901c;font-weight:700;">
+                                                <li style="color: #188a91;font-weight:700;">
                                                     Custom Content
                                                 </li>
                                                 <li>
@@ -223,14 +224,14 @@
                                 <div class="col-xl-4 d-flex align-items-stretch mb-3">
                                     <div class="box">
                                         <div class="box_top">
-                                            <div class="price"><sup>$</sup>5.5</div>
-                                            <p class="mb-0">1/Verified & non-verified mixed</p>
+                                            <p class="">10 TrustPilot Review</p>
+                                            <div class="price"><sup>$</sup>90</div>
                                         </div>
                                         <div class="inner">
-                                            <span class="featured" style="background:#ff901c;">Hot</span>
+                                            <span class="featured" style="background:#00455b;">Best</span>
 
                                             <ul>
-                                                <li style="color: #ff901c;font-weight:700;">
+                                                <li style="color: #188a91;font-weight:700;">
                                                     Custom Content
                                                 </li>
                                                 <li>
@@ -261,14 +262,14 @@
                                 <div class="col-xl-4 d-flex align-items-center mb-3">
                                     <div class="box">
                                         <div class="box_top">
-                                            <div class="price"><sup>$</sup>5</div>
-                                            <p class="mb-0">1/invite Reviews </p>
+                                            <p class="">20 TrustPilot Review</p>
+                                            <div class="price"><sup>$</sup>180</div>
                                         </div>
                                         <div class="inner">
                                             {{-- <span class="featured" style="background:#ff901c;">Hot</span> --}}
 
                                             <ul>
-                                                <li style="color: #ff901c;font-weight:700;">
+                                                <li style="color: #188a91;font-weight:700;">
                                                     Custom Content
                                                 </li>
                                                 <li>
@@ -297,14 +298,14 @@
                                 <div class="col-xl-4 d-flex align-items-stretch mb-3">
                                     <div class="box">
                                         <div class="box_top">
-                                            <div class="price"><sup>$</sup>850/Mo</div>
-                                            <p class="mb-0">Let us take over your account.</p>
+                                            <p class="">50 TrustPilot Review</p>
+                                            <div class="price"><sup>$</sup>150</div>
                                         </div>
                                         <div class="inner">
                                             {{-- <span class="featured" style="background:#ff901c;">Hot</span> --}}
 
                                             <ul>
-                                                <li style="color: #ff901c;font-weight:700;">
+                                                <li style="color: #188a91;font-weight:700;">
                                                     Custom Content
                                                 </li>
                                                 <li>
