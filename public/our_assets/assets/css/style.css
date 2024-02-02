@@ -72,7 +72,7 @@ h6 {
     right: 15px;
     bottom: 15px;
     z-index: 996;
-    background: #00455b;
+    background: #1788ad;
     width: 40px;
     height: 40px;
     border-radius: 4px;
@@ -86,7 +86,7 @@ h6 {
 }
 
 .back-to-top:hover {
-    background: #298ce5;
+    background: #188a91;
     color: #fff;
 }
 
@@ -1595,7 +1595,7 @@ section {
 #footer {
     color: #fff;
     font-size: 14px;
-    background: #213233;
+    background: #00455b;
 }
 
 #footer .footer-top {
@@ -1727,7 +1727,7 @@ section {
 #footer .social-links a {
     font-size: 18px;
     display: inline-block;
-    background: #00455b;
+    background: #1788ad;
     color: #fff;
     line-height: 1;
     padding: 8px 0;
@@ -1740,7 +1740,7 @@ section {
 }
 
 #footer .social-links a:hover {
-    background: #1c84e3;
+    background: #0399c9;
     color: #fff;
     text-decoration: none;
 }
